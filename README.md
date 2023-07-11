@@ -1,9 +1,26 @@
-# FS22-Australian-License-Plates
-Australian Number Plates for Map Makers to use in their custom maps
+![Aussie Plates Header Image.](_Development_Files/Images/Aussie-Plates-Header.png)
+
+# FS22 Australian License Plates
+Australian Number Plates for Farming Simulator 22 Map Makers to use in their custom maps
 
 
 Feel free to use these in any custom map you make for FS22.
 You don't need to credit me.
 
+NOTE: Only ONE set of state plates can be in a map at once. you can't have multiple sets. or, at least, i've not been able to find a way.
+
+
+# TODO:
+This order could change, depending on requests.
+- [x] **1. DONE: New South Wales.**
+- [ ] :arrow_right: **2. IN PROGRESS: Western Australia**
+- [ ] **3. Coming Soon: Victoria**
+- [ ] **4. Coming Soon: South Australia**
+- [ ] **5. Coming Soon: Queensland**
+- [ ] **6. Coming Soon: Northern Territory**
+- [ ] **7. Coming Soon: Tasmania**
+- [ ] **8. Coming Soon: Australian Capital Territory**
+
+## Credits:
 - Daniel "DazzaJay" Fitzgerald
 - https://wwwPotholeStudios.com
