@@ -1,16 +1,23 @@
-Extract the licensePlates folder into FS22_SouthernCrossStation\maps
+For Adding these plates to your custom map:
 
-Edit your map.xml so that then license plates line points to the correct location:
+1. Extract the licensePlates folder into yor custom world's maps folder. 
+For example, Southern Cross Station would be: FS22_SouthernCrossStation\maps
 
-Here is the one that works here.
+2. Edit your map.xml so that then license plates line points to the correct location:
+Here is the one that works here:
 
 <licensePlates filename="maps/licensePlates/licensePlatesUS.xml"/>
 
 
 
+This contains 4 Types of plates:
+3 Letters, 3 Numbers: AAA 111
+2 Letters, 2 Numbers, 2 Letters: AA 11 AA
+6 Character AlphaNumeric Custom Plates. (Realistic)
+8 Character AlphaNumeric Custom Plates. (Unrealistic)
 
 
-Note: Updated to contain 20 AI Traffic license plates.
+Also contain 20 NPC Traffic license plates.
 10x NSW AA-11-AA
 5X  NSW AAA-111
 5x  Personalised Plates.
