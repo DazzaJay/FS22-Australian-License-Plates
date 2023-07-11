@@ -8,6 +8,7 @@ Feel free to use these in any custom map you make for FS22.
 You don't need to credit me.
 
 NOTE: Only ONE set of state plates can be in a map at once. you can't have multiple sets. or, at least, i've not been able to find a way.
+Also, It doesn't seem like you can make a license plate mod as a standalone mod. they seem to only work INSIDE a map file.
 
 
 # TODO:
