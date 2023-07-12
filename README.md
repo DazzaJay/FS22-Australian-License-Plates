@@ -22,7 +22,7 @@ This order could change, depending on requests.
 
   WA Plates Styles:
       ![WA Plates Image.](_Development_Files/Screenshots/Western%20Australia/Plate-Shots.png)
-- [ ] **3. DONE: Victoria**
+- [x] **3. DONE: Victoria**
 
   Vic Plates Styles:
       ![Vic Plates Image.](_Development_Files/Screenshots/Victoria/Plate-Shots.png)
