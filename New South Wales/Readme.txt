@@ -1,7 +1,8 @@
 For Adding these plates to your custom map:
 
-1. Extract the licensePlates folder into yor custom world's maps folder. 
+1. Extract the licensePlates folder into your custom world's maps folder. 
 For example, Southern Cross Station would be: FS22_SouthernCrossStation\maps
+so you will end up with: FS22_SouthernCrossStation\maps\licensePlates
 
 2. Edit your map.xml so that then license plates line points to the correct location:
 Here is the one that works here:
