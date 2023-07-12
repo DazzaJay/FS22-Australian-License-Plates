@@ -14,7 +14,14 @@ Also, It doesn't seem like you can make a license plate mod as a standalone mod.
 # TODO:
 This order could change, depending on requests.
 - [x] **1. DONE: New South Wales.**
+
+
+  NSW Plates Styles:
+      ![NSW Plates Image.](_Development_Files/Screenshots/New%20South%20Wales/Plate-Shots.png)
 - [x] **2. DONE: Western Australia**
+
+  WA Plates Styles:
+      ![WA Plates Image.](_Development_Files/Screenshots/Western%20Australia/Plate-Shots.png)
 - [ ] :arrow_right: **3. IN PROGRESS: Victoria**
 - [ ] **4. Coming Soon: South Australia**
 - [ ] **5. Coming Soon: Queensland**
