@@ -5,29 +5,49 @@
         <font size="0.07" scaleX="0.8" scaleY="1"/>
 
         <variations>
-            <variation> <!-- NSW Yellow 3 Letters, 3 Numbers -->
+            <variation> <!-- NSW Modern: 2 x 2 x 2 -->
+                <value node="0|0" posX="-0.123" numerical="false" alphabetical="true" special="false"/>
+                <value node="0|1" posX="-0.088" numerical="false" alphabetical="true" special="false"/>
+
+                <value node="0|2" posX="-0.053" character="-" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+
+                <value node="0|3" posX="-0.018" numerical="true" alphabetical="false" special="false"/>
+                <value node="0|4" posX="0.018"  numerical="true" alphabetical="false" special="false"/>
+
+                <value node="0|5" posX="0.053"  character="-" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+
+                <value node="0|6" posX="0.088"  numerical="false" alphabetical="true" special="false"/>
+                <value node="0|7" posX="0.123"  numerical="false" alphabetical="true" special="false"/>
+
+                <value node="0|8" character="_" locked="true"/>
+            </variation>
+            <variation> <!-- NSW Classic: 3 Letters, 3 Numbers -->
                 <value node="0|0" posX="-0.106" numerical="false"  alphabetical="true" special="false"/>
                 <value node="0|1" posX="-0.069" numerical="false"  alphabetical="true" special="false"/>
                 <value node="0|2" posX="-0.032" numerical="false"  alphabetical="true" special="false"/>
 
                 <value node="0|3" posX="0.000"  character="-" numerical="false" alphabetical="false" special="false" nextSection="true"/>
 
-                <value node="0|4" posX="0.032"  numerical="true" alphabetical="false" special="false" nextSection="true"/>
+                <value node="0|4" posX="0.032"  numerical="true" alphabetical="false" special="false"/>
                 <value node="0|5" posX="0.069"  numerical="true" alphabetical="false" special="false"/>
                 <value node="0|6" posX="0.106"  numerical="true" alphabetical="false" special="false"/>
 
                 <value node="0|7" character="_" locked="true"/>
                 <value node="0|8" character="_" locked="true"/>
             </variation>
-            <variation> <!-- NSW Yellow 2 x 2 x 2 -->
-                <value node="0|0" posX="-0.123" numerical="false" alphabetical="true" special="false"/>
-                <value node="0|1" posX="-0.088" numerical="false" alphabetical="true" special="false"/>
-                <value node="0|2" posX="-0.053" character="-" numerical="false" alphabetical="false" special="false" nextSection="true"/>
-                <value node="0|3" posX="-0.018" numerical="true" alphabetical="false" special="false" nextSection="true"/>
-                <value node="0|4" posX="0.018"  numerical="true" alphabetical="false" special="false"/>
-                <value node="0|5" posX="0.053"  character="-" numerical="false" alphabetical="false" special="false" nextSection="true"/>
-                <value node="0|6" posX="0.088"  numerical="false" alphabetical="true" special="false" nextSection="true"/>
-                <value node="0|7" posX="0.123"  numerical="false" alphabetical="true" special="false"/>
+            <variation> <!-- NSW Yellow Custom 2x2x2 -->
+                <value node="0|0" posX="-0.123" numerical="true" alphabetical="true" special="false"/>
+                <value node="0|1" posX="-0.088" numerical="true" alphabetical="true" special="false"/>
+
+                <value node="0|2" posX="-0.053" character="-" numerical="true" alphabetical="true" special="true"/>
+
+                <value node="0|3" posX="-0.018" numerical="true" alphabetical="true" special="false"/>
+                <value node="0|4" posX="0.018"  numerical="true" alphabetical="true" special="false"/>
+
+                <value node="0|5" posX="0.053"  character="-" numerical="true" alphabetical="true" special="true"/>
+                
+                <value node="0|6" posX="0.088"  numerical="true" alphabetical="true" special="false"/>
+                <value node="0|7" posX="0.123"  numerical="true" alphabetical="true" special="False"/>
 
                 <value node="0|8" character="_" locked="true"/>
             </variation>
@@ -41,18 +61,6 @@
                
                 <value node="0|6" character="_" locked="true"/>
                 <value node="0|7" character="_" locked="true"/>
-                <value node="0|8" character="_" locked="true"/>
-            </variation>
-            <variation> <!-- NSW Yellow Custom -->
-                <value node="0|0" posX="-0.123" numerical="true" alphabetical="true" special="false"/>
-                <value node="0|1" posX="-0.088" numerical="true" alphabetical="true" special="false"/>
-                <value node="0|2" posX="-0.053" character="-" numerical="true" alphabetical="true" special="true"/>
-                <value node="0|3" posX="-0.018" numerical="true" alphabetical="true" special="false"/>
-                <value node="0|4" posX="0.018"  numerical="true" alphabetical="true" special="false"/>
-                <value node="0|5" posX="0.053"  character="-" numerical="true" alphabetical="true" special="true"/>
-                <value node="0|6" posX="0.088"  numerical="true" alphabetical="true" special="false"/>
-                <value node="0|7" posX="0.123"  numerical="true" alphabetical="true" special="False"/>
-
                 <value node="0|8" character="_" locked="true"/>
             </variation>
         </variations>
