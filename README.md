@@ -30,8 +30,11 @@ This order could change, depending on requests.
 
   SA Plates Styles:
       ![SA Plates Image.](_Development_Files/Screenshots/South%20Australia/Plate-Shots.png)
-- [ ] :arrow_right: **5. IN PROGRESS: Queensland**
-- [ ] **6. Coming Soon: Northern Territory**
+- [x] **5. DONE: Queensland**
+
+  QLD Plates Styles:
+      ![QLD Plates Image.](_Development_Files/Screenshots/Queensland/Plate-Shots.png)
+- [ ] :arrow_right: **6. IN PROGRESS: Northern Territory**
 - [ ] **7. Coming Soon: Tasmania**
 - [ ] **8. Coming Soon: Australian Capital Territory**
 
