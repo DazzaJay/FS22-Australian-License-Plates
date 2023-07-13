@@ -26,8 +26,11 @@ This order could change, depending on requests.
 
   Vic Plates Styles:
       ![Vic Plates Image.](_Development_Files/Screenshots/Victoria/Plate-Shots.png)
-- [ ] :arrow_right: **4. IN PROGRESS: South Australia**
-- [ ] **5. Coming Soon: Queensland**
+- [x] **4. DONE: South Australia**
+
+  SA Plates Styles:
+      ![SA Plates Image.](_Development_Files/Screenshots/South%20Australia/Plate-Shots.png)
+- [ ] :arrow_right: **5. IN PROGRESS: Queensland**
 - [ ] **6. Coming Soon: Northern Territory**
 - [ ] **7. Coming Soon: Tasmania**
 - [ ] **8. Coming Soon: Australian Capital Territory**
