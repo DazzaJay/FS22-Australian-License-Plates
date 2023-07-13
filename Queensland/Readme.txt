@@ -19,8 +19,8 @@ Custom: 6 Character AlphaNumeric. (Realistic)
 
 
 Also contain 20 NPC Traffic license plates.
-10x Vic 1AA-1AA
-5X  Vic AAA-111
+10x QLD 111-AA1
+5X  QLD 111-AAA
 5x  Personalised Plates.
 
 
