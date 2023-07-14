@@ -34,9 +34,15 @@ This order could change, depending on requests.
 
   QLD Plates Styles:
       ![QLD Plates Image.](_Development_Files/Screenshots/Queensland/Plate-Shots.png)
-- [ ] :arrow_right: **6. IN PROGRESS: Northern Territory**
-- [ ] **7. Coming Soon: Tasmania**
+- [x] **6. DONE: Northern Territory**
+
+  NT Plates Styles:
+      ![NT Plates Image.](_Development_Files/Screenshots/Northern%20Territory/Plate-Shots.png)
+- [ ] :arrow_right: **7. IN PROGRESS: Tasmania**
 - [ ] **8. Coming Soon: Australian Capital Territory**
+- [ ] **9. Coming Soon: Adjust Colours of plate text to better match background colours.**
+
+- Apparently the colour calculator here [https://assets.mantrid.net/colour/](https://assets.mantrid.net/colour/) is (at a guess 20%) too dark. (SA / NSW Unaffected, as they both use Black)
 
 ## Credits:
 - Daniel "DazzaJay" Fitzgerald
