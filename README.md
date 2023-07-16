@@ -38,8 +38,11 @@ This order could change, depending on requests.
 
   NT Plates Styles:
       ![NT Plates Image.](_Development_Files/Screenshots/Northern%20Territory/Plate-Shots.png)
-- [ ] :arrow_right: **7. IN PROGRESS: Tasmania**
-- [ ] **8. Coming Soon: Australian Capital Territory**
+- [x] **7. DONE: Tasmania**
+
+  Tas Plates Styles:
+      ![Tas Plates Image.](_Development_Files/Screenshots/Tasmania/Plate-Shots.png)
+- [ ] :arrow_right: **8. IN PROGRESS: Australian Capital Territory**
 - [ ] **9. Coming Soon: Adjust Colours of plate text to better match background colours.**
 
 - Apparently the colour calculator here [https://assets.mantrid.net/colour/](https://assets.mantrid.net/colour/) is (at a guess 20%) too dark. (SA / NSW Unaffected, as they both use Black)
