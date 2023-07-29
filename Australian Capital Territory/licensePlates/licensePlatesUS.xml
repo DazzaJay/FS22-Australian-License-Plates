@@ -51,7 +51,7 @@
     </licensePlate>
 
     <colorConfigurations shaderParameter="colorMat2" useDefaultColors="true">
-        <colorConfiguration name="ACT Blue" color="0.000 0.246 0.604" isDefault="true"/>
+        <colorConfiguration name="ACT Blue" color="0.000 0.300 0.704" isDefault="true"/> <!-- Original: 0.000 0.246 0.604 -->
     </colorConfigurations>
 
     <placement defaultType="both"/>
