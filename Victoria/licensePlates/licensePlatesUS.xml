@@ -53,7 +53,7 @@
     </licensePlate>
 
     <colorConfigurations shaderParameter="colorMat2" useDefaultColors="true">
-        <colorConfiguration name="Victoria Blue" color="0.0030 0.0450 0.1650" isDefault="true"/>
+        <colorConfiguration name="Victoria Blue" color="0.000 0.100 0.280" isDefault="true"/> <!-- Original: 0.0030 0.0450 0.1650 -->
     </colorConfigurations>
 
     <placement defaultType="both"/>
