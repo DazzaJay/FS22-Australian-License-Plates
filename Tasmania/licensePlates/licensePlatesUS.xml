@@ -51,7 +51,7 @@
     </licensePlate>
 
     <colorConfigurations shaderParameter="colorMat2" useDefaultColors="true">
-        <colorConfiguration name="Tas Blue" color="0.000 0.100 0.571" isDefault="true"/>
+        <colorConfiguration name="Tas Blue" color="0.000 0.200 0.671" isDefault="true"/> <!-- Original: 0.000 0.100 0.571 -->
     </colorConfigurations>
 
     <placement defaultType="both"/>
