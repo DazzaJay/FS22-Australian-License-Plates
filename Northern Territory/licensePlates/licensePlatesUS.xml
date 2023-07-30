@@ -65,7 +65,7 @@
     </licensePlate>
 
     <colorConfigurations shaderParameter="colorMat2" useDefaultColors="true">
-        <colorConfiguration name="NT Orange" color="0.831 0.125 0.015" isDefault="true"/>
+        <colorConfiguration name="NT Orange" color="0.931 0.225 0.030" isDefault="true"/> <!-- Original:  0.831 0.125 0.015 -->
     </colorConfigurations>
 
     <placement defaultType="both"/>
