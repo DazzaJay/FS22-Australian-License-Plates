@@ -35,7 +35,7 @@
 
                 <value node="0|8" character="_" locked="true"/>
             </variation>
-            <variation> <!-- NSW Yellow Custom -->
+            <variation> <!-- WA Custom -->
                 <value node="0|0" posX="-0.123" numerical="true" alphabetical="true" special="true"/>
                 <value node="0|1" posX="-0.088" numerical="true" alphabetical="true" special="true"/>
                 <value node="0|2" posX="-0.053" numerical="true" alphabetical="true" special="true"/>
@@ -53,7 +53,7 @@
     </licensePlate>
 
     <colorConfigurations shaderParameter="colorMat2" useDefaultColors="true">
-        <colorConfiguration name="WA Blue" color="0.0420 0.0910 0.4850" isDefault="true"/>
+        <colorConfiguration name="WA Blue" color="0.100 0.200 0.750" isDefault="true"/> <!-- Original: 0.0420 0.0910 0.4850 -->
     </colorConfigurations>
 
     <placement defaultType="both"/>
