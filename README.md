@@ -46,9 +46,11 @@ This order could change, depending on requests.
 
   ACT Plates Styles:
       ![ACT Plates Image.](_Development_Files/Screenshots/Australian%20Capital%20Territory/Plate-Shots.png)
-- [ ] :arrow_right: **9. IN PROGRESS: Adjust Colours of plate text to better match background colours.**
+- [x] **9. DONE: Adjust Colours of plate text to better match background colours.**
 
 - Apparently the colour calculator here [https://assets.mantrid.net/colour/](https://assets.mantrid.net/colour/) is (at a guess 20%) too dark. (SA / NSW Unaffected, as they both use Black)
+
+New Screenshots coming soon.
 
 # KNOWN ISSUES:
 If you apply a set of plates with less style variations than the map already had, you may find the style box is blank - This is a game issue, not an issue with the mod.
