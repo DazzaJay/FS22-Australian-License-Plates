@@ -53,9 +53,11 @@ This order could change, depending on requests.
 New Screenshots coming soon.
 
 # KNOWN ISSUES:
-If you apply a set of plates with less style variations than the map already had, you may find the style box is blank - This is a game issue, not an issue with the mod.
+- 1. If you apply a set of plates with less style variations than the map already had, you may find the style box is blank - This is a game issue, not an issue with the mod.
+     To fix this, simply purchase a vehile with whatever plate you're given, then close and reopen the store, and all the plate styles will now be there and be functioning properly.
 
-To fix this, simply purchase a vehile with whatever plate you're given, then close and reopen the store, and all the plate styles will now be there and be functioning properly.
+- 2. NPC Traffic Plates only work if your map was originally based on MapUS. For example; If replacing plates on a map based on MapFR Player owned vehicle plates will be the Australian style, NPC Traffic will not.
+     No known solution at this time.
 
 ## Credits:
 - Daniel "DazzaJay" Fitzgerald
