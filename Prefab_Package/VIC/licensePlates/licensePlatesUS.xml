@@ -1,0 +1,60 @@
+<licensePlates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/mapLicensePlates.xsd">
+    <font name="LICENSE_PLATE_US" />
+
+    <licensePlate filename="maps/licensePlates/licensePlatesUS.i3d" node="0" type="SQUARISH" width="0.3" height="0.15">
+        <font size="0.07" scaleX="0.8" scaleY="1"/>
+
+        <variations>
+            <variation> <!-- Vic Modern, 1 Number, 2 Letters, 1 Number, 2 Letters -->
+                <value node="0|0" posX="-0.106" numerical="true"  alphabetical="false" special="false"/>
+                <value node="0|1" posX="-0.069" numerical="false"  alphabetical="true" special="false"/>
+                <value node="0|2" posX="-0.032" numerical="false"  alphabetical="true" special="false"/>
+
+                <value node="0|3" posX="0.000"  character="_" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+
+                <value node="0|4" posX="0.032"  numerical="true" alphabetical="false" special="false"/>
+                <value node="0|5" posX="0.069"  numerical="false" alphabetical="true" special="false"/>
+                <value node="0|6" posX="0.106"  numerical="false" alphabetical="true" special="false"/>
+
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+            </variation>
+            <variation> <!-- Vic Classic, 3 Letters, 3 Numbers -->
+                <value node="0|0" posX="-0.106" numerical="false"  alphabetical="true" special="false"/>
+                <value node="0|1" posX="-0.069" numerical="false"  alphabetical="true" special="false"/>
+                <value node="0|2" posX="-0.032" numerical="false"  alphabetical="true" special="false"/>
+
+                <value node="0|3" posX="0.000"  character="_" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+
+                <value node="0|4" posX="0.032"  numerical="true" alphabetical="false" special="false"/>
+                <value node="0|5" posX="0.069"  numerical="true" alphabetical="false" special="false"/>
+                <value node="0|6" posX="0.106"  numerical="true" alphabetical="false" special="false"/>
+
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+            </variation>
+            <variation> <!-- Vic Custom, 3 x 3 AlphaNumeric -->
+                <value node="0|0" posX="-0.106" numerical="true"  alphabetical="true" special="true"/>
+                <value node="0|1" posX="-0.069" numerical="true"  alphabetical="true" special="true"/>
+                <value node="0|2" posX="-0.032" numerical="true"  alphabetical="true" special="true"/>
+
+                <value node="0|3" posX="0.000"  character="_" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+
+                <value node="0|4" posX="0.032"  numerical="true" alphabetical="true" special="true"/>
+                <value node="0|5" posX="0.069"  numerical="true" alphabetical="true" special="true"/>
+                <value node="0|6" posX="0.106"  numerical="true" alphabetical="true" special="true"/>
+
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+            </variation>
+        </variations>
+
+        <frame node="2" widthOffset="0.005" heightOffsetTop="0.005" heightOffsetBot="0.015"/>
+    </licensePlate>
+
+    <colorConfigurations shaderParameter="colorMat2" useDefaultColors="true">
+        <colorConfiguration name="Victoria Blue" color="0.000 0.100 0.280" isDefault="true"/> <!-- Original: 0.0030 0.0450 0.1650 -->
+    </colorConfigurations>
+
+    <placement defaultType="both"/>
+</licensePlates>

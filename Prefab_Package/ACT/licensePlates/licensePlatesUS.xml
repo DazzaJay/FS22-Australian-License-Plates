@@ -1,0 +1,58 @@
+<licensePlates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/mapLicensePlates.xsd">
+    <font name="LICENSE_PLATE_US" />
+
+    <licensePlate filename="maps/licensePlates/licensePlatesUS.i3d" node="0" type="SQUARISH" width="0.3" height="0.15">
+        <font size="0.07" scaleX="0.8" scaleY="1"/>
+
+        <variations>
+            <variation> <!-- ACT Modern, Y, 2 Letters, 2 Numbers 1 Letter -->
+                <value node="0|0" posX="-0.106" character="Y" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+                <value node="0|1" posX="-0.069" numerical="false" alphabetical="true" special="false"/>
+                <value node="0|2" posX="-0.032" numerical="false" alphabetical="true" special="false"/>
+
+                <value node="0|3" posX="0.000"  character="-" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+
+                <value node="0|4" posX="0.032"  numerical="true" alphabetical="false" special="false"/>
+                <value node="0|5" posX="0.069"  numerical="true" alphabetical="false" special="false"/>
+                <value node="0|6" posX="0.106"  numerical="false" alphabetical="true" special="false"/>
+
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+            </variation>
+            <variation> <!-- ACT Classic, Y, 2 Letters, 3 Numbers -->
+                <value node="0|0" posX="-0.106" character="Y" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+                <value node="0|1" posX="-0.069" numerical="false" alphabetical="true" special="false"/>
+                <value node="0|2" posX="-0.032" numerical="false" alphabetical="true" special="false"/>
+
+                <value node="0|3" posX="0.000"  character="-" numerical="false" alphabetical="false" special="false" nextSection="true"/>
+
+                <value node="0|4" posX="0.032"  numerical="true" alphabetical="false" special="false"/>
+                <value node="0|5" posX="0.069"  numerical="true" alphabetical="false" special="false"/>
+                <value node="0|6" posX="0.106"  numerical="true" alphabetical="false" special="false"/>
+
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+            </variation>
+            <variation> <!-- ACT Custom Real -->
+                <value node="0|0" posX="-0.105" numerical="true" alphabetical="true" special="true"/>
+                <value node="0|1" posX="-0.063" numerical="true" alphabetical="true" special="true"/>
+                <value node="0|2" posX="-0.021" numerical="true" alphabetical="true" special="true"/>
+                <value node="0|3" posX="0.021" numerical="true" alphabetical="true" special="true"/>
+                <value node="0|4" posX="0.063"  numerical="true" alphabetical="true" special="true"/>
+                <value node="0|5" posX="0.105"  numerical="true" alphabetical="true" special="true"/>
+               
+                <value node="0|6" character="_" locked="true"/>
+                <value node="0|7" character="_" locked="true"/>
+                <value node="0|8" character="_" locked="true"/>
+            </variation>
+        </variations>
+
+        <frame node="2" widthOffset="0.005" heightOffsetTop="0.005" heightOffsetBot="0.015"/>
+    </licensePlate>
+
+    <colorConfigurations shaderParameter="colorMat2" useDefaultColors="true">
+        <colorConfiguration name="ACT Blue" color="0.000 0.300 0.704" isDefault="true"/> <!-- Original: 0.000 0.246 0.604 -->
+    </colorConfigurations>
+
+    <placement defaultType="both"/>
+</licensePlates>
