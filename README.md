@@ -12,45 +12,8 @@ Also, It doesn't seem like you can make a license plate mod as a standalone mod.
 
 
 # TODO:
-This order could change, depending on requests.
-- [x] **1. DONE: New South Wales.**
-
-
-  NSW Plates Styles:
-      ![NSW Plates Image.](_Development_Files/Screenshots/New%20South%20Wales/Plate-Shots.png)
-- [x] **2. DONE: Western Australia**
-
-  WA Plates Styles:
-      ![WA Plates Image.](_Development_Files/Screenshots/Western%20Australia/Plate-Shots.png)
-- [x] **3. DONE: Victoria**
-
-  Vic Plates Styles:
-      ![Vic Plates Image.](_Development_Files/Screenshots/Victoria/Plate-Shots.png)
-- [x] **4. DONE: South Australia**
-
-  SA Plates Styles:
-      ![SA Plates Image.](_Development_Files/Screenshots/South%20Australia/Plate-Shots.png)
-- [x] **5. DONE: Queensland**
-
-  QLD Plates Styles:
-      ![QLD Plates Image.](_Development_Files/Screenshots/Queensland/Plate-Shots.png)
-- [x] **6. DONE: Northern Territory**
-
-  NT Plates Styles:
-      ![NT Plates Image.](_Development_Files/Screenshots/Northern%20Territory/Plate-Shots.png)
-- [x] **7. DONE: Tasmania**
-
-  Tas Plates Styles:
-      ![Tas Plates Image.](_Development_Files/Screenshots/Tasmania/Plate-Shots.png)
-- [x] **8. DONE: Australian Capital Territory**
-
-  ACT Plates Styles:
-      ![ACT Plates Image.](_Development_Files/Screenshots/Australian%20Capital%20Territory/Plate-Shots.png)
-- [x] **9. DONE: Adjust Colours of plate text to better match background colours.**
-
-- Apparently the colour calculator here [https://assets.mantrid.net/colour/](https://assets.mantrid.net/colour/) is (at a guess 20%) too dark. (SA / NSW Unaffected, as they both use Black)
-
-New Screenshots coming soon.
+- [ ] **1. IN PROGRESS: Take New Screenshots.**
+- Textures have been adjusted since last set of screenshots. Take new screenshots.
 
 # KNOWN ISSUES:
 - If you apply a set of plates with less style variations than the map already had, you may find the style box is blank - This is a game issue, not an issue with the mod.
@@ -58,6 +21,47 @@ New Screenshots coming soon.
 
 - NPC Traffic Plates only work if your map was originally based on MapUS. For example; If replacing plates on a map based on MapFR or MapAlpine, Player owned vehicle plates will be the Australian style, NPC Traffic will not.
      No known solution at this time.
+
+# DONE:
+This order could change, depending on requests.
+- [x] **1. DONE: New South Wales.**
+
+
+- NSW Plates Styles:
+      ![NSW Plates Image.](_Development_Files/Screenshots/New%20South%20Wales/Plate-Shots.png)
+- [x] **2. DONE: Western Australia**
+
+- WA Plates Styles:
+      ![WA Plates Image.](_Development_Files/Screenshots/Western%20Australia/Plate-Shots.png)
+- [x] **3. DONE: Victoria**
+
+- Vic Plates Styles:
+      ![Vic Plates Image.](_Development_Files/Screenshots/Victoria/Plate-Shots.png)
+- [x] **4. DONE: South Australia**
+
+- SA Plates Styles:
+      ![SA Plates Image.](_Development_Files/Screenshots/South%20Australia/Plate-Shots.png)
+- [x] **5. DONE: Queensland**
+
+- QLD Plates Styles:
+      ![QLD Plates Image.](_Development_Files/Screenshots/Queensland/Plate-Shots.png)
+- [x] **6. DONE: Northern Territory**
+
+- NT Plates Styles:
+      ![NT Plates Image.](_Development_Files/Screenshots/Northern%20Territory/Plate-Shots.png)
+- [x] **7. DONE: Tasmania**
+
+- Tas Plates Styles:
+      ![Tas Plates Image.](_Development_Files/Screenshots/Tasmania/Plate-Shots.png)
+- [x] **8. DONE: Australian Capital Territory**
+
+- ACT Plates Styles:
+      ![ACT Plates Image.](_Development_Files/Screenshots/Australian%20Capital%20Territory/Plate-Shots.png)
+- [x] **9. DONE: Adjust Colours of plate text to better match background colours.**
+- Apparently the colour calculator here [https://assets.mantrid.net/colour/](https://assets.mantrid.net/colour/) is (at a guess 20%) too dark. (SA / NSW Unaffected, as they both use Black)
+
+- [x] **10. DONE: Create a Prefab.**
+- Prefab has been created, tested with TestRunner, and has been uploaded to ModHub for review. - You should see it in Giants Editor soon!
 
 ## Credits:
 - Daniel "DazzaJay" Fitzgerald
