@@ -46,7 +46,7 @@ For example:
 
 NOTE: If your trafficSystem.XML is in a different folder to your map.xml then you must put the AI Licence Plates in a subfolder of the folder your trafficSystem.XML is in.
 
-For example: the Western Australia map does not have a maps folder. and the trafficsystem.xml file is in a subfolder. 
+For example: the Western Australia map does not have a maps folder, and the trafficsystem.xml file is in a different subfolder. 
 
 So you would have to put the aiLicensePlatesUS.i3d & aiLicensePlatesUS.i3d.shapes files in the following directory:
 FS22_WesternAustralia.zip\xml\maps\licensePlates
