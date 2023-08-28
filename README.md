@@ -26,13 +26,13 @@ Also, It doesn't seem like you can make a license plate mod as a standalone mod.
 
 
 # Manual Install Instructions (Not Prefab):
-- The instructions may differ depending on the directory layout of your map.
+- ℹ️ The instructions may differ depending on the directory layout of your map.
 
 - 1. Extract the licensePlates folder into your custom world's maps folder. 
 For example, Southern Cross Station would be: FS22_SouthernCrossStation.zip\maps
 so you will end up with: FS22_SouthernCrossStation.zip\maps\licensePlates
 
-NOTE: If your map files are not in a /maps/ subfolder, you will still need to put the licensePlates folder inside a /maps/ folder.
+ℹ️ NOTE: If your map files are not in a /maps/ subfolder, you will still need to put the licensePlates folder inside a /maps/ folder.
 
 - 2. Edit your map.xml so that then license plates line points to the correct location:
 Here is the one that works here:
@@ -44,7 +44,7 @@ For example:
 
 ```<trafficSystem licensePlates="maps/licensePlates/aiLicensePlatesUS.i3d">```
 
-NOTE: If your trafficSystem.XML is in a different folder to your map.xml then you must put the AI Licence Plates in a subfolder of the folder your trafficSystem.XML is in.
+ℹ️ NOTE: If your trafficSystem.XML is in a different folder to your map.xml then you must put the AI Licence Plates in a subfolder of the folder your trafficSystem.XML is in.
 
 For example: the Western Australia map does not have a maps folder, and the trafficsystem.xml file is in a different subfolder. 
 
@@ -54,9 +54,9 @@ FS22_WesternAustralia.zip\xml\maps\licensePlates
 And the licensePlatesUS_diffuse.dds & licensePlatesUS_normal.dds files in the following directory:
 FS22_WesternAustralia.zip\xml\maps\licensePlates\Textures
 
-NOTE: If no traffic cars spawn, your files are in the incorrect directory and more experimentation will be needed to fix it.
+ℹ️ NOTE: If no traffic cars spawn, your files are in the incorrect directory and more experimentation will be needed to fix it.
 
-### - If you know how to make the paths simpler to use and implement, please drop the information on: https://github.com/DazzaJay/FS22-Australian-License-Plates/discussions
+### - ⚠️ If you know how to make the paths simpler to use and implement, please drop the information on: https://github.com/DazzaJay/FS22-Australian-License-Plates/discussions
 
 
 # DONE:
