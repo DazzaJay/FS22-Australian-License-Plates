@@ -24,6 +24,11 @@ Also, It doesn't seem like you can make a license plate mod as a standalone mod.
 
 - Directory Structure for AI Traffic Vehicle License Plates is a bit wonky. Read the instructions carefully below.
 
+# Download The Prefab Package:
+![Prefab Icon](https://github.com/DazzaJay/FS22-Australian-License-Plates/blob/main/_Development_Files/Images/icon_prefab.png?raw=true)
+- ℹ️ Download the prefab directly from Giants ModHub: 
+- **➡️ [https://www.farming-simulator.com/mod.php?mod_id=276164](https://www.farming-simulator.com/mod.php?mod_id=276164) ⬅️** 
+- or look for it in the Giants Editor Prefab Browser. 
 
 # Manual Install Instructions (Not Prefab):
 - ℹ️ The instructions may differ depending on the directory layout of your map.
@@ -98,7 +103,7 @@ This order could change, depending on requests.
 - Apparently the colour calculator here [https://assets.mantrid.net/colour/](https://assets.mantrid.net/colour/) is (at a guess 20%) too dark. (SA / NSW Unaffected, as they both use Black)
 
 - [x] **10. DONE: Create a Prefab.**
-- Prefab has been created, tested with TestRunner, and has been uploaded to ModHub for review. - You should see it in Giants Editor soon!
+- Prefab has been created, tested with TestRunner, and has been uploaded to ModHub. **➡️ [https://www.farming-simulator.com/mod.php?mod_id=276164](https://www.farming-simulator.com/mod.php?mod_id=276164) ⬅️**  - You should see it in Giants Editor soon!
 
 ## Credits:
 - Daniel "DazzaJay" Fitzgerald
